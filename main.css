@@ -1,0 +1,89 @@
+.Etat{
+    padding: 10;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: -3%;
+
+}
+h1{
+    color: rgba(245, 238, 238, 0.979);
+    background: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    margin-top: 30px;
+    
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.Kindness{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.Humanity{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 7%;
+}
+.Love{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Music{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 8%;
+}
+.Kids{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: white;
+    border: 0px;
+    position: absolute; top: 30px; right: 70px;
+}
+.Bestie{
+    height: 40px;
+    width: 10%;
+    background-color: #d3d3d3;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 25%;
+    border-radius: 25px;
+    margin-bottom: 2%;
+}
+.Good {
+    padding-right: 25px;
+}
+.Bad {
+    padding-right: 25px;
+}
+.Great {
+    padding-right: 25px;
+}
+#google_pic{
+    margin-top: 30px;
+    margin-left: 40px;
+    height: 50px;
+}
+#bottom_pic{
+    height: 300px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+}
